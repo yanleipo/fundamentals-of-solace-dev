@@ -30,6 +30,12 @@
             <scope>test</scope>
         </dependency>
 
+        <dependency>
+            <groupId>com.solacesystems</groupId>
+            <artifactId>sol-jcsmp</artifactId>
+            <version>10.4.0</version>
+        </dependency>
+        
          <dependency>
             <groupId>com.google.code.gson</groupId>
             <artifactId>gson</artifactId>
